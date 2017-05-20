@@ -1,0 +1,60 @@
+Doctor
+Lisa DiStefano
+Pediatrician
+Monday to Friday 8am to 5pm
+Doctor
+Susan Watson
+Pediatrician
+Tuesday to Saturday 8am to 5pm
+Doctor
+Jane Dawson
+Gynecologist
+Wednesday to Sunday 8am to 5pm
+Doctor
+Leah Habersham
+Gynecologist
+Thursday to Monday 8am to 5pm
+Doctor
+Scott Holman
+Gynecologist
+Friday to Tuesday 8am to 5pm
+Doctor
+Carol McIntyre
+Gynecologist
+Monday to Friday 5pm to 2am
+Doctor
+Kristyn Menendez
+Gynecologist
+Wednesday to Sunday 2am to 11am
+
+M
+11
+SSM Health | St. Francis Hospital
+2016 South Main Street, Maryville, MO 64468 
+Harry
+Potter
+11112
+10/10/2016
+true
+Lisa DiStefano
+acellular pertussis, Haemophilus influenzae,fracture
+Lewermark Insurance
+500
+2000
+
+F
+25
+SSM Health | St. Francis Hospital
+2016 South Main Street, Maryville, MO 64468 
+Marry
+Jane
+22222
+11/11/2016
+true
+Tony DSouza
+respiratory syncytial virus, influenza,Muscle Pain
+Lewermark Insurance
+1500
+5000
+
+
